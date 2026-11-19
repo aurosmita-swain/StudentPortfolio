@@ -53,8 +53,8 @@ Interested in software development, web development, and problem-solving.
 
 ## 📬 Contact
 
-- GitHub: Add your GitHub profile link
-- LinkedIn: Add your LinkedIn profile link
+- GitHub: https://github.com/account
+- LinkedIn: https://www.linkedin.com/in/aurosmita-swain-436428416
 
 ---
 
